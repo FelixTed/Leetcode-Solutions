@@ -20,4 +20,20 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
