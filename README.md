@@ -7,6 +7,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 ## String
@@ -42,4 +43,8 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
