@@ -7,6 +7,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -51,5 +52,10 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
