@@ -15,6 +15,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
