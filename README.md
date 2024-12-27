@@ -7,6 +7,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -25,6 +26,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1500-count-largest-group](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 ## Tree
 |  |
@@ -63,4 +65,8 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
