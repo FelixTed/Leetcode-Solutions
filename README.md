@@ -8,6 +8,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 ## String
@@ -47,4 +48,8 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
