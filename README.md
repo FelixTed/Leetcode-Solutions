@@ -13,6 +13,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 | [0198-house-robber](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -69,4 +70,5 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
