@@ -14,6 +14,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 | [0219-contains-duplicate-ii](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1983-maximum-population-year](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 ## String
 |  |
 | ------- |
@@ -71,4 +72,12 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 | ------- |
 | [0048-rotate-image](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
