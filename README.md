@@ -62,6 +62,7 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
@@ -80,4 +81,16 @@ Automated with LeetHub (https://github.com/marketplace/leet-hub)
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/FelixTed/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/FelixTed/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
